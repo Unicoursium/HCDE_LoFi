@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=LEDButtonDemo
+Exec=/home/unico/start_ledbutton.sh
+Terminal=false
+StartupNotify=false

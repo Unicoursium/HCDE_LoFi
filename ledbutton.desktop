@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=LEDButtonDemo
+Exec = sh -c "sleep 5 && /usr/bin/python3 /home/unico/Desktop/LEDButtonDemoV2.py"
+Terminal=false
+StartupNotify=false
