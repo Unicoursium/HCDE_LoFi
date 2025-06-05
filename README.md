@@ -15,7 +15,7 @@ While I was responsible for the full implementation of this prototype, I would l
 - **Siyi Yu** – Helped test the Lo-Fi prototype and gathered user feedback for iterative improvement.
 
 ---
-# 💡 Multi-Player Interactive Button Fountain Game (Raspberry Pi Project)
+# 💡 Magic Fountain
 
 A playful, multi-user interactive installation powered by Raspberry Pi, designed to simulate a physical "water fountain challenge" using buttons, LEDs, and synchronized music.
 
